@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="15">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern=".babelrc" type="JSON" />
       <mapping pattern=".npmrc" type="Properties" />
     </extensionMap>
   </component>
