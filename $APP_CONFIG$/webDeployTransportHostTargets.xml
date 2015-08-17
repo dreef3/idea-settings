@@ -1,0 +1,38 @@
+<application>
+  <component name="WebDeploymentTransportHostTargets">
+    <option name="stateHostTargets">
+      <list>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="3b2ef794-aa5f-4450-ae19-2e158b848403" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="112414e3-674c-49c1-b0d3-f6159c4c076f" />
+              <id>112414e3-674c-49c1-b0d3-f6159c4c076f</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="4b1aa6d3-358f-4466-a691-df3596767c88" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="f8b3da11-bdfe-4520-b15d-2d6f78683253" />
+              <id>f8b3da11-bdfe-4520-b15d-2d6f78683253</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="evalink-live-web-app" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="3b2ef794-aa5f-4450-ae19-2e158b848403" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="f8b3da11-bdfe-4520-b15d-2d6f78683253" />
+              <id>f8b3da11-bdfe-4520-b15d-2d6f78683253</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="evalink-live-web-app" />
+        </WebDeploymentTransportHostTarget>
+      </list>
+    </option>
+  </component>
+</application>
