@@ -5,6 +5,11 @@
         <option name="frameworkName" value="Node.js Core Modules" />
         <option name="frameworkVersion" value="0.12.7" />
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/events.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/freelist.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/readline.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/zlib.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/domain.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/os.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/string_decoder.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/sys.js" />
@@ -50,14 +55,14 @@
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_http_outgoing.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/querystring.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_duplex.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/events.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/freelist.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/readline.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/zlib.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/domain.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/events.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/freelist.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/readline.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/zlib.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/domain.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/os.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/string_decoder.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/sys.js" />
@@ -103,11 +108,6 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_http_outgoing.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/querystring.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_duplex.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/events.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/freelist.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/readline.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/zlib.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/domain.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
