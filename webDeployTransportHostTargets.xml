@@ -32,6 +32,16 @@
           </option>
           <option name="targetPath" value="evalink-live-web-app" />
         </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="e07ca630-bb4a-4d10-b3fd-d613cb7029f7" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="aa324bd8-485e-485d-b21c-9ba3f3c97130" />
+              <id>aa324bd8-485e-485d-b21c-9ba3f3c97130</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/cas" />
+        </WebDeploymentTransportHostTarget>
       </list>
     </option>
   </component>

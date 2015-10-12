@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e07ca630-bb4a-4d10-b3fd-d613cb7029f7" name="192.168.95.73" url="https://192.168.95.73">
+        <fileTransfer host="192.168.95.73" port="22" rootFolder="/home/vagrant/tomcat-work/webapps" accessType="SFTP" password="dfdcdfcbdfcddfd8dfcbdfc4dfde" username="vagrant">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
