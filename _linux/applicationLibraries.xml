@@ -1,5 +1,17 @@
 <application>
   <component name="libraryTable">
+    <library name="css3-mediaqueries" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_css3-mediaqueries-js.googlecode.com_svn_trunk_css3-mediaqueries.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_css3-mediaqueries-js.googlecode.com_svn_trunk_css3-mediaqueries.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Node.js v0.12.7 Core Modules" type="javaScript">
       <properties>
         <option name="frameworkName" value="Node.js Core Modules" />
