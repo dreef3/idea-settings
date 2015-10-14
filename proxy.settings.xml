@@ -4,5 +4,7 @@
     <option name="PROXY_HOST" value="proxy.mera.ru" />
     <option name="PROXY_PORT" value="8080" />
     <option name="PROXY_EXCEPTIONS" value="localhost,127.0.0.1,*.mera.ru,*.merann.ru" />
+    <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="file://$USER_HOME$/mera.pac" />
   </component>
 </application>
