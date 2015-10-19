@@ -17,27 +17,6 @@
         <option name="frameworkName" value="Node.js Core Modules" />
         <option name="frameworkVersion" value="0.12.7" />
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/events.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/freelist.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/readline.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/zlib.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/domain.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/os.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/string_decoder.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/sys.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/repl.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_tls_legacy.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_readable.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_transform.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/punycode.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_passthrough.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_http_server.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/vm.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/console.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_tls_common.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/timers.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/crypto.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/child_process.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_http_common.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/tty.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/https.js" />
@@ -67,30 +46,30 @@
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_http_outgoing.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/querystring.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_duplex.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/events.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/freelist.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/readline.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/zlib.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/domain.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/os.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/string_decoder.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/sys.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/repl.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_tls_legacy.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_readable.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_transform.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/punycode.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_passthrough.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_http_server.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/vm.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/console.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_tls_common.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/timers.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/crypto.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/child_process.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/events.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/freelist.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/readline.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/zlib.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/domain.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/os.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/string_decoder.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/sys.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/repl.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_tls_legacy.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_readable.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_transform.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/punycode.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_passthrough.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_http_server.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/vm.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/console.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_tls_common.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/timers.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/crypto.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/child_process.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_http_common.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/tty.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/https.js" />
@@ -120,6 +99,27 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_http_outgoing.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/querystring.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_duplex.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/events.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/freelist.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/readline.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/zlib.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/domain.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/os.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/string_decoder.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/sys.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/repl.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_tls_legacy.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_readable.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_transform.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/punycode.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_stream_passthrough.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_http_server.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/vm.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/console.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/_tls_common.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/timers.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/crypto.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/nodejs-v0.12.7-src/core-modules-sources/lib/child_process.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
